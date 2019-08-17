@@ -4,6 +4,18 @@ module.exports = {
       resolve: `gatsby-theme-blog`,
       options: {},
     },
+    {
+      resolve: 'gatsby-plugin-manifest',
+      options: {
+        name: `The Frustaded Dev`,
+        short_name: `TFD`,
+        start_url: `/`,
+        background_color: `#f7f0eb`,
+        theme_color: `#a2466c`,
+        display: `standalone`,
+        icon: `content/assets/favicona.ico`
+      },
+    },
   ],
   // Customize your site metadata:
   siteMetadata: {
