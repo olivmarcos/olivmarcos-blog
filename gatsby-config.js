@@ -7,17 +7,18 @@ module.exports = {
   ],
   // Customize your site metadata:
   siteMetadata: {
-    title: `My Blog Title`,
-    author: `My Name`,
-    description: `My site description...`,
+    title: `The Frustraded Dev`,
+    author: `Marcos Oliveira`,
+    description: `Uma forma de fixar o meu conhecimento e ajudar a outros que estão 
+    entrando nessa carrerira de desenvolvedor e se sente tão frustrado quanto eu.`,
     social: [
       {
         name: `twitter`,
-        url: `https://twitter.com/gatsbyjs`,
+        url: `https://twitter.com/_olivmarcos`,
       },
       {
         name: `github`,
-        url: `https://github.com/gatsbyjs`,
+        url: `https://github.com/olivmarcos`,
       },
     ],
   },
