@@ -11,7 +11,7 @@ module.exports = {
         short_name: `TFD`,
         start_url: `/`,
         background_color: `#f7f0eb`,
-        theme_color: `#a2466c`,
+        theme_color: `#F2AC29`,
         display: `standalone`,
         icon: `content/assets/favicona.ico`
       },
