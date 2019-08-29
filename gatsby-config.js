@@ -23,7 +23,6 @@ module.exports = {
         head: true,
       },
     },
-    `gatsby-plugin-react-helmet`,
     `gatsby-plugin-remove-serviceworker`
   ],
   // Customize your site metadata:
