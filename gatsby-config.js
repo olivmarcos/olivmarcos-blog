@@ -16,6 +16,7 @@ module.exports = {
         icon: `content/assets/logotfd.png`
       },
     },
+    `gatsby-plugin-offline`
   ],
   // Customize your site metadata:
   siteMetadata: {
