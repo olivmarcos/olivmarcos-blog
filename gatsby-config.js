@@ -16,7 +16,7 @@ module.exports = {
         icon: `content/assets/logotfd.png`
       },
     },
-    `gatsby-plugin-offline`
+    `gatsby-plugin-remove-serviceworker`
   ],
   // Customize your site metadata:
   siteMetadata: {
