@@ -16,6 +16,13 @@ module.exports = {
         icon: `content/assets/logotfd.png`
       },
     },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-146794336-1",
+        head: true,
+      },
+    },
     `gatsby-plugin-remove-serviceworker`
   ],
   // Customize your site metadata:
