@@ -13,7 +13,7 @@ module.exports = {
         background_color: `#f7f0eb`,
         theme_color: `#F2AC29`,
         display: `standalone`,
-        icon: `content/assets/logotfd.png`
+        icon: `content/assets/logo.png`
       },
     },
     {
