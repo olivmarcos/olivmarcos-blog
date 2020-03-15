@@ -4,18 +4,6 @@ module.exports = {
             options: {},
         },
         {
-            resolve: 'gatsby-plugin-manifest',
-            options: {
-                name: `Olivmarcos`,
-                short_name: `olv`,
-                start_url: `/`,
-                background_color: `#f7f0eb`,
-                theme_color: `#F2AC29`,
-                display: `standalone`,
-                icon: `content/assets/logo.png`
-            },
-        },
-        {
             resolve: `gatsby-plugin-google-analytics`,
             options: {
                 trackingId: "UA-146794336-1",

@@ -1,4 +1,4 @@
-## The Frustrated Dev: Personal Blog
+## Personal Blog
 Blog pessoal criado com Gatsby.
 
 A criação deste blog foi feita com base no Gatsby Themes: https://www.gatsbyjs.org/tutorial/theme-tutorials/
